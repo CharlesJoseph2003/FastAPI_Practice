@@ -1,0 +1,2 @@
+url = 'https://mgmnzaxcgdwflfnwzbtx.supabase.co'
+api = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nbW56YXhjZ2R3Zmxmbnd6YnR4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDIzNjA1OTgsImV4cCI6MjA1NzkzNjU5OH0.9WZjOUxuyq7ZhhjGfKa3J7rhuhGnT46kS_qdjrTWLFw'

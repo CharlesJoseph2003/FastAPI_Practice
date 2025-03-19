@@ -6,5 +6,5 @@ from pydantic import BaseModel
 #BaseModel is a class in pydantic that is used for data validation
 #serialization
 class Todo(BaseModel):
-    id: int
+    # id: int
     item: str
