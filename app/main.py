@@ -77,8 +77,6 @@ async def update_todo(todo_id: int, new_value: Todo):
 
     return {"message": "successfully updated", "updated_data": update_response.data}
 
-
-
 #delete a todo
 @app.delete("/todos/{todo_id}") 
 async def delete_todo(todo_id:int): 

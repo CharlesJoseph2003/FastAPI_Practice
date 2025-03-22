@@ -2,7 +2,7 @@ from supabase import create_client
 from config import api, url
 
 def create_supabase_client():
-    supabase = create_client(url, api)  # ✅ Removed unnecessary type hint
+    supabase = create_client(url, api) 
     return supabase
 
 # Create a Supabase client instance
